@@ -11,7 +11,7 @@ https://www.dash.org/downloads/.
 
 Further information about Lajcoin Core is available in [./doc/](/doc).
 
-What is Lajcoin?
+What is Lajcoin? It is a "experimental" structure of dash coin
 -------------
      //JUST CODING FOR FUN AND LEARNING ABOUT DASH CO-ECOSYSTEM FOR REAL SOURCE CODE WITH THE UPDATED GENESIS BLOCK AND NTIME HIT ME UP 
 
