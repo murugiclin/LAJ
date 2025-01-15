@@ -78,7 +78,8 @@ static CBlock CreateDevNetGenesisBlock(const uint256 &prevBlockHash, const std::
  */
 static CBlock CreateGenesisBlock(uint32_t nTime, uint32_t nNonce, uint32_t nBits, int32_t nVersion, const CAmount& genesisReward)
 {
-    const char* pszTimestamp = "Wired 09/Jan/2014 The Learner just learnt";
+ //For you to run this use the dash coin genesis block *the public key is hand coded for real use bit address to generate the address for you 
+    const char* pszTimestamp = "Wired 09/Jan/2025 The Learner just learnt";
     const CScript genesisOutputScript = CScript() << ParseHex("0437F6D38A13A04AE8A292C4286AC46BC7FF89055D7AB804331874F92D456EC96080DBD29EC3F3B7ABC67F712AE3481B15B4650F66193285570F64679D73B5BEEF") << OP_CHECKSIG;
     return CreateGenesisBlock(pszTimestamp, genesisOutputScript, nTime, nNonce, nBits, nVersion, genesisReward);
 }
