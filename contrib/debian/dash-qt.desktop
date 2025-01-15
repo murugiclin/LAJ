@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Lajcoin Core
+Comment=Lajcoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Lajcoin peer-to-peer Netzwerk
+Comment[fr]=Lajcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Lajcoin, eşten eşe kriptografik sanal para birimi
+Exec=dash-qt %u
+Terminal=false
+Type=Application
+Icon=dash128
+MimeType=x-scheme-handler/dash;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=Lajcoin-qt
