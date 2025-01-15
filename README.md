@@ -4,8 +4,7 @@ Lajcoin Core staging tree
 |CI|master|develop|
 |-|-|-|
 |Gitlab|[![Build Status](https://gitlab.com/dashpay/dash/badges/master/pipeline.svg)](https://gitlab.com/dashpay/dash/-/tree/master)|[![Build Status](https://gitlab.com/dashpay/dash/badges/develop/pipeline.svg)](https://gitlab.com/dashpay/dash/-/tree/develop)|
-
-https://www.dash.org
+ CLONE OF DASH 
 
 For an immediately usable, binary version of the Lajcoin Core software, see
 https://www.dash.org/downloads/.
@@ -14,6 +13,7 @@ Further information about Lajcoin Core is available in [./doc/](/doc).
 
 What is Lajcoin?
 -------------
+     //JUST CODING FOR FUN AND LEARNING ABOUT DASH CO-ECOSYSTEM FOR REAL SOURCE CODE WITH THE UPDATED GENESIS BLOCK AND NTIME HIT ME UP 
 
 Lajcoin is an experimental digital currency that enables instant, private
 payments to anyone, anywhere in the world. Lajcoin uses peer-to-peer technology
